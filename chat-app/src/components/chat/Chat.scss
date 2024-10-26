@@ -1,7 +1,6 @@
 .chat{
     display: flex;
-    justify-content: column;
+    flex-direction: column;
     flex-grow: 1;
-    background-color: rgb(31, 15, 49); //Todo:later to home
-
+    background-color: rgb(31, 15, 49);
 }
