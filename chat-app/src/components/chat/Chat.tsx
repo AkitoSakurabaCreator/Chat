@@ -19,7 +19,6 @@ const Chat = () => {
             <ChatMessage></ChatMessage>
             <ChatMessage></ChatMessage>
             <ChatMessage></ChatMessage>
-            <ChatMessage></ChatMessage>
         </div>
         {/* chatInput */}
         <div className="chatInput">
