@@ -73,8 +73,6 @@ const Sidebar = () => {
                 <SettingsIcon></SettingsIcon>
             </div>
           </div>
-
-
         </div>
       </div>
     </div>
