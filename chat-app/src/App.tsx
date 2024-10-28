@@ -37,7 +37,7 @@ function App() {
 
   return(
   <div className="App">
-    { user ?(
+    { user.user ?(
       <>
         <ErrorBoundary FallbackComponent={ErrorFallBack}>
           <Sidebar></Sidebar>
