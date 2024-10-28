@@ -15,7 +15,7 @@ const Chat = () => {
     const [inputText, setInputText] = useState<string>("");
     const channelId = useAppSelector((state) => state.channel.channelId);
     const channelName = useAppSelector((state) => state.channel.channelName);
-    const user = useAppSelector((state) => state.user);
+    const user = useAppSelector((state) => state.user.user);
     const { subDocuments: messages } = useSubCollection("channels", "messages");
 
     const sendMessage = async (
