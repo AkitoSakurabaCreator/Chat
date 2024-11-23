@@ -52,5 +52,6 @@ firebase deploy
 ### [アプリ動作画面](https://github.com/tinode/webapp/)
 
 <p align="center">
-  <img src="docs/web-desktop.jpg" alt="Desktop web: full app" width=810 />
+  <img src="docs/login.jpg" alt="Desktop web: full app" width=810 />
+  <img src="docs/main.jpg" alt="Desktop web: full app" width=810 />
 </p>
